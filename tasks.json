@@ -6,7 +6,7 @@
       "command": "python3 ./main.py",
       "runAtStart": true,
       "preview": {
-        "port": 8080
+        "port": 7860
       }
     }
   }
